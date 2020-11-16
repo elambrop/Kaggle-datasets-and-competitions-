@@ -1,3 +1,3 @@
-## Kaggle-datasets-and-competitions.
+# Machine-Learning-with-Python.
 
-###  A repo for projects related to Kaggle datasets
+## ML-focused educational and recreational Python notebooks.
