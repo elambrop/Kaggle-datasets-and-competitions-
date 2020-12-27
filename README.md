@@ -5,6 +5,7 @@
 ## [Kaggle competitions and datasets](https://github.com/elambrop/Machine-Learning-with-Python./tree/main/Kaggle%20competitions%20and%20datasets)
 
 * Dogs vs Cats: Predict whether a given image shows a dog or a cat
+
   [Competition details](https://www.kaggle.com/c/dogs-vs-cats/overview)
 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zWlUjP8lT3muvnqjC4fkmPgny9nbV4CL?usp=sharing)
