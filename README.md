@@ -2,6 +2,14 @@
 
 ## ML-focused educational and recreational Python notebooks.
 
+## [Various datasets](https://github.com/elambrop/Machine-Learned/tree/main/Various%20datasets)
+
+* Face generation with DCGANs
+
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14TTYHALZuVDTCxONgbXDrElqe47XgGwE#scrollTo=SVqMKIz-FTVX)
+
+  ![face_progress](https://raw.githubusercontent.com/elambrop/Machine-Learned/main/Various%20datasets/new_rgb_face_4.gif)
+
 ## [Kaggle competitions and datasets](https://github.com/elambrop/Machine-Learning-with-Python./tree/main/Kaggle%20competitions%20and%20datasets)
 
 * Dogs vs Cats: Predict whether a given image shows a dog or a cat
