@@ -4,6 +4,13 @@
 
 ## [Various datasets](https://github.com/elambrop/Machine-Learned/tree/main/Various%20datasets)
 
+* Fast Neural Style Transfer
+
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eLWjqYDf0_uvgaLi4c4gagi0uN-lSGmO?usp=sharing)
+
+  ![style_transfer](https://raw.githubusercontent.com/elambrop/Machine-Learned/main/Various%20datasets/style_transfer28.png)
+
+
 * Face generation with DCGANs
 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14TTYHALZuVDTCxONgbXDrElqe47XgGwE#scrollTo=SVqMKIz-FTVX)
