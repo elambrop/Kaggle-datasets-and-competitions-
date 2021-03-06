@@ -1,8 +1,15 @@
-# Machine-Learned
+# Machine-Learned.
 
 ## ML-focused educational and recreational Python notebooks.
 
 ## [Various datasets](https://github.com/elambrop/Machine-Learned/tree/main/Various%20datasets)
+
+* Fast Neural Style Transfer
+
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eLWjqYDf0_uvgaLi4c4gagi0uN-lSGmO?usp=sharing)
+
+  ![style_transfer](https://raw.githubusercontent.com/elambrop/Machine-Learned/main/Various%20datasets/style_transfer28.png)
+
 
 * Face generation with DCGANs
 
@@ -25,3 +32,5 @@
   See the Kaggle notebook [here](https://www.kaggle.com/elambrop/titanic-basic-eda-and-modeling)
   
 ![Fare distribution](https://raw.githubusercontent.com/elambrop/Machine-Learning-with-Python./b1aecddb30ca870de8b319359ffb1329c5186f99/Kaggle%20competitions%20and%20datasets/fare.png)
+
+
