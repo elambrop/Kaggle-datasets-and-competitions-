@@ -21,7 +21,7 @@
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e5hkRSTd01oDtKId6YmI5z2n_u67o7jS?usp=sharing)
   
-  ![cars](https://raw.githubusercontent.com/elambrop/Machine-Learned/main/Various%20datasets/transfer.png)
+   ![cars](https://raw.githubusercontent.com/elambrop/Machine-Learned/main/Various%20datasets/transfer.png)
 
 ## [Kaggle competitions and datasets](https://github.com/elambrop/Machine-Learning-with-Python./tree/main/Kaggle%20competitions%20and%20datasets)
 
